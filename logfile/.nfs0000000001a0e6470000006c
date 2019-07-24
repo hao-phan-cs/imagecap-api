@@ -1,0 +1,9 @@
+2019-07-15 10:31:33.274 WARNING tf_logging - warning: From /usr/local/lib/python3.5/dist-packages/mtcnn/layer_factory.py:211: calling reduce_max (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2019-07-15 10:31:33.277 WARNING tf_logging - warning: From /usr/local/lib/python3.5/dist-packages/mtcnn/layer_factory.py:213: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2019-07-15 10:31:34.732 DEBUG mtcnn_service - main: Client connect: ('192.168.20.151', 36410)
+2019-07-15 10:31:37.266 DEBUG mtcnn_service - main: Client connect: ('192.168.20.151', 36412)
+2019-07-15 10:31:40.504 DEBUG mtcnn_service - main: Client connect: ('192.168.20.151', 36414)
