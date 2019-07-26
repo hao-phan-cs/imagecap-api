@@ -1,5 +1,5 @@
 # imagecap-api
-API Service for captioning image via Python rocket
+API Service for captioning image via Python ocket
 
 ### Download model file here: 
 ```
