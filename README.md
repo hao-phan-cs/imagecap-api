@@ -9,7 +9,7 @@ gdown https://drive.google.com/a/gm.uit.edu.vn/uc?id=13m7TZsZ4z6PYifwBbrSl6avzhq
 unzip models.zip
 ```
 
-### Deploying API service:
+### Deploy API service:
 ```
 python3 imagecap_service.py
 ```
